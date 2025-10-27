@@ -18,4 +18,4 @@ You can load a button for the columns in TreeGrid using [TreeGridTemplateColumn]
 </syncfusion:TreeGridTemplateColumn>
 ```
 
-![How to Bind Button Command to ViewModel in WPF / UWP TreeGrid in MVVM](Bind_button_command_to_viewmodel.png)
+![Bind button command to viewmodel](BindButtonCommand.png)
